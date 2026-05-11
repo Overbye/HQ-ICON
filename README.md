@@ -8,7 +8,7 @@ GitHub Page：https://yukonga.github.io/HQ-ICON/
 
 ### 使用：
 
-完整例子: https://icon.yukonga.top/?name=Google&country=us&entity=software&limit=18&cut=0&resolution=1024&format=webp
+完整例子: https://icon.yukonga.top/?name=Google&country=us&entity=software&limit=18&cut=2&resolution=1024&format=webp
 
 ### 参数：
 
